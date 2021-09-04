@@ -1,0 +1,1 @@
+#rockstar-wp-theme
